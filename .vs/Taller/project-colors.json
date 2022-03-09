@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17a5e8cf-8dc5-439c-bdfd-bc2d1e484c8d": {
+      "ProjectGuid": "17a5e8cf-8dc5-439c-bdfd-bc2d1e484c8d",
+      "DisplayName": "Taller",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

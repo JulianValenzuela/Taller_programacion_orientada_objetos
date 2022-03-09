@@ -1,0 +1,40 @@
+C:\Users\Sena\Documents\C#\Taller\Taller\bin\Debug\net5.0\Taller.exe
+C:\Users\Sena\Documents\C#\Taller\Taller\bin\Debug\net5.0\Taller.deps.json
+C:\Users\Sena\Documents\C#\Taller\Taller\bin\Debug\net5.0\Taller.runtimeconfig.json
+C:\Users\Sena\Documents\C#\Taller\Taller\bin\Debug\net5.0\Taller.runtimeconfig.dev.json
+C:\Users\Sena\Documents\C#\Taller\Taller\bin\Debug\net5.0\Taller.dll
+C:\Users\Sena\Documents\C#\Taller\Taller\bin\Debug\net5.0\ref\Taller.dll
+C:\Users\Sena\Documents\C#\Taller\Taller\bin\Debug\net5.0\Taller.pdb
+C:\Users\Sena\Documents\C#\Taller\Taller\obj\Debug\net5.0\Taller.csproj.AssemblyReference.cache
+C:\Users\Sena\Documents\C#\Taller\Taller\obj\Debug\net5.0\Taller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Documents\C#\Taller\Taller\obj\Debug\net5.0\Taller.AssemblyInfoInputs.cache
+C:\Users\Sena\Documents\C#\Taller\Taller\obj\Debug\net5.0\Taller.AssemblyInfo.cs
+C:\Users\Sena\Documents\C#\Taller\Taller\obj\Debug\net5.0\Taller.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Documents\C#\Taller\Taller\obj\Debug\net5.0\Taller.dll
+C:\Users\Sena\Documents\C#\Taller\Taller\obj\Debug\net5.0\ref\Taller.dll
+C:\Users\Sena\Documents\C#\Taller\Taller\obj\Debug\net5.0\Taller.pdb
+C:\Users\Sena\Documents\C#\Taller\Taller\obj\Debug\net5.0\Taller.genruntimeconfig.cache
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\bin\Debug\net5.0\Taller.exe
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\bin\Debug\net5.0\Taller.deps.json
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\bin\Debug\net5.0\Taller.runtimeconfig.json
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\bin\Debug\net5.0\Taller.runtimeconfig.dev.json
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\bin\Debug\net5.0\Taller.dll
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\bin\Debug\net5.0\ref\Taller.dll
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\bin\Debug\net5.0\Taller.pdb
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.csproj.AssemblyReference.cache
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.AssemblyInfoInputs.cache
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.AssemblyInfo.cs
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.dll
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\obj\Debug\net5.0\ref\Taller.dll
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.pdb
+C:\Users\KEVIN\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.genruntimeconfig.cache
+C:\Users\Sena\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.AssemblyInfo.cs
+C:\Users\Sena\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.dll
+C:\Users\Sena\Desktop\Taller (2)\Taller\obj\Debug\net5.0\ref\Taller.dll
+C:\Users\Sena\Desktop\Taller (2)\Taller\obj\Debug\net5.0\Taller.pdb
